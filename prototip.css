@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Khula:wght@300&display=swap');
+
+
+*{
+	margin: 5px;
+	padding: 5px;
+}
+.container{
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+	.container__header{
+        margin: 0 0 0 136px;
+		size: 14px;
+		height: 100px;
+		
+		display: flex;
+	}
+	.menu__ul{
+		
+		
+		display: flex;
+		justify-content: flex-start;
+	}
+
+	.menu__item{
+		color: #C3B9B5;
+		font-size: 18px;
+		margin: 0 80px 0 0;
+	}
+	
+
+	
+
+	li{
+		list-style-type: none;
+	}
+	a{
+		text-decoration: none;
+	}
+
+
+     .logotip {
+        margin: -35px 144px 0px 0px;
+    }
+
+    .container__block_1{
+       
+        height: 601px;
+        background:url(foto/IMG_6437\ 1.png) ;
+
+
+    }
+    .nam_doverayt{
+        color: white;
+        margin: 0px 0 136px 438px;
+       font-size: 48px;
+       
+    }
+
+    .nam_doverayt_1{
+        font-size: 48px;
+        color: aliceblue;
+        margin: -105px 0 39px 464px ;
+
+
+
+    }
+    .voplotim{
+        font-size: 16px;
+        color: aliceblue;
+        margin: 223px 0 0 503px ;
+    }
+    
+    .knopca{
+      margin: 20px 0 0 512px;
+            background: #fafafa;
+   width: 328px; ;
+    font-family: 'Futura New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #715B4B;
+   
+    }
+    .pozemy_vibiraut{
+        
+        color: #57463A;
+        font-size: 48px;
+        margin: 130px 0 80px 100px;
+    }
+    .davno_big{
+        font-weight: 700;
+        border-style: solid;
+        border-width: 0 0 1px 0;
+        
+    }
+    .davno_smol{
+        Weight :400;
+        font-size: 16px
+    }
+    .container__block_2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 0 260px 0 360px ;
+    }
+    .davno{
+       
+        width: 200px;
+        margin: 50px 0 0 0;
+        
+    }
+
+
+    .galeri{
+        margin: 0 0 0 50px ;
+        display: flex;
+    }
+
+
+    .container__block_3{
+        margin: 0 0 0 100px;
+        width: 1158px;
+        height: 267px;
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+    .tabliza{
+        margin: 0 ;
+        border-style: solid;
+        border-width: 1px ;
+        width: 563px;
+        height: 113px;
+    }
+    .tabliza__text{
+        margin: 0 0 0 20px;
+        color: #57463A;
+        font-size: 16px;
+        padding: 76px 0 0 0;
+    }
+    .tabliza__cifra{
+        color: #57463A;
+        margin: -99px 0 8px 484px;
+        font-size: 48px;
+        
+    }
+
+    .knopca__ostavit{
+        margin: 0 0 0 621px;
+        background: #fafafa;
+
+font-family: 'Futura New';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #ffffff;
+background:#A1B29F ;
+    }
+    .container__footer{
+        
+        margin: 200px 0 0 0;
+        
+        font-size: 16px;
+       
+        height: 380px;
+        display: flex;
+        color: #F6F6F6;
+        background: #715B4B;
+    }
+    
+    
+
+    .ip{
+        margin: 100px 0 0 100px;
+        width: 248px;
+        height: 48px;
+    }
+    .master{
+        margin: 100px 107px 0 0;
+        width:130px;
+        height: 24px;
+    }
+
+    .kontent{
+        margin: 100px 107px 0 0;
+width: 70px;
+height: 24px;
+    }
+    .politika{
+        margin: 100px 107px 0 0;
+ width:230px;
+        height: 24px;
+    }
+
+    .inst{
+        margin: 100px 86px 0 0;
+
+    }
+
